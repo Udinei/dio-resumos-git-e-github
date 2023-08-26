@@ -17,7 +17,7 @@ Gravando alterações no repositorio
 ```
 
 ```
-Alteração non github
+Alteração no github para estudos local
 ```
 
 ## REFERÊNCIAS
