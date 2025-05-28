@@ -8,7 +8,7 @@ DIO | Resumo Git e GitHub
 
 ## 🖥️ Resumo das Aulas
 
-|Aula | Resumos |
+|Aula | Resumo |
 |-----|---------|
 |Criando repositorios local |[Resumos]()|
 
