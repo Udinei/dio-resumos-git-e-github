@@ -8,7 +8,7 @@ DIO | Resumo Git e GitHub
 
 ## 🖥️ Resumo das Aulas
 
-|Aula | Resumos |
+|Aula | Resumo |
 |-----|---------|
 |Criando repositorios local |[Resumos]()|
 
@@ -17,4 +17,8 @@ git init
 ```
 
 ## 🔍 Referências
+- [Digital Innovation One](https://www.dio.me/)
+
+
+## 🔍 Referências 2
 - [Digital Innovation One](https://www.dio.me/)
