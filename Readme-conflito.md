@@ -1,1 +1,1 @@
-Descrição inserida no repositorio local depois do pull
+Descrição inserida no repositorio remoto antes do clone
