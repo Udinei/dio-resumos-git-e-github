@@ -18,3 +18,7 @@ git init
 
 ## 🔍 Referências
 - [Digital Innovation One](https://www.dio.me/)
+
+
+## 🔍 Referências 2
+- [Digital Innovation One](https://www.dio.me/)
